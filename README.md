@@ -1,6 +1,6 @@
-# 🌐 Website Traffic Analytics Dashboard - Power BI Project
+#  Website Traffic Analytics Dashboard - Power BI Project
 
-## 🎯 Project Objective
+##  Project Objective
 
 The objective of this Power BI dashboard is to provide comprehensive and interactive insights into website traffic behavior to help digital marketers, product managers, and analysts:
 
@@ -13,7 +13,7 @@ The objective of this Power BI dashboard is to provide comprehensive and interac
 ## Dataset 
 Link: https://www.kaggle.com/datasets/anthonytherrien/website-traffic
 
-## 📘 Project Description
+##  Project Description
 
 This project visualizes website analytics data in an interactive Power BI dashboard. It includes two report pages:
 
@@ -24,7 +24,7 @@ The dashboard helps stakeholders quickly assess web performance metrics and take
 
 ---
 
-## 📊 Key Metrics Tracked
+##  Key Metrics Tracked
 
 | **Metric**              | **Description**                                                                 |
 |-------------------------|----------------------------------------------------------------------------------|
@@ -41,9 +41,9 @@ The dashboard helps stakeholders quickly assess web performance metrics and take
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
-### 🧾 Report 1 – Country, Browser, Device Overview
+###  Report 1 – Country, Browser, Device Overview
 
 ![Report 1](./report1.png)
 
@@ -53,7 +53,7 @@ The dashboard helps stakeholders quickly assess web performance metrics and take
 
 ---
 
-### 📊 Report 2 – Conversion & Daily Traffic Analysis
+###  Report 2 – Conversion & Daily Traffic Analysis
 
 ![Report 2](./report2.png)
 
@@ -63,7 +63,7 @@ The dashboard helps stakeholders quickly assess web performance metrics and take
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 - **Power BI** – For building interactive dashboards
 - **Power Query** – For data cleaning and shaping
@@ -72,7 +72,7 @@ The dashboard helps stakeholders quickly assess web performance metrics and take
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 - **India** is the leading country in terms of traffic volume.
 - **Opera** browser users spent more time on site but had a high bounce rate.
